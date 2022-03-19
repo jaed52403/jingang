@@ -15,7 +15,7 @@ stratum+tcp和stratum+SSL只是内容数据包有没有加密的区别，但是�
 
 金刚矿工加密隧道介绍：    
 金刚矿工安全隧道使用的是 http+tls 的协议，目的是伪装成普通的网页流量访问，让流量特征监控失效。      
-![image](https://github.com/jaed52403/jingang/blob/main/JinGang%E9%98%B2%E6%8A%A4%E5%8E%9F%E7%90%86.jpg)
+![image](https://github.com/jaed52403/jingang/blob/main/JinGang%E9%98%B2%E6%8A%A4%E5%8E%9F%E7%90%86%E5%9B%BE.png)
 
 
 官网在这里 https://github.com/jaed52403/jingang  
