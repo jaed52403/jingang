@@ -21,7 +21,7 @@ stratum+tcp和stratum+SSL只是内容数据包有没有加密的区别，但是�
 官网在这里 https://github.com/jaed52403/jingang  
 最新版下载在这里 https://github.com/jaed52403/jingang/releases  
 
-Erha-miner矿工3.0稳定版本重磅更新  
+金刚矿工3.0稳定版本重磅更新  
 1，支持构建ETH/ETC矿池的加密隧道。  
 2，调整了加密方法极大提高稳定性。  
 3，加入了分布式节点增强了挖矿的安全和隐秘性。  
